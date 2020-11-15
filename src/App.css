@@ -1,0 +1,57 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@ghazouani-web 
+Learn Git and GitHub without any code!
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
+
+
+youssraa
+/
+checksPoints
+1
+00
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+checksPoints/steate-app/src/App.css
+@youssraa
+youssraa state
+Latest commit 3008e41 3 hours ago
+ History
+ 1 contributor
+24 lines (20 sloc)  452 Bytes
+  
+#myDIV {
+
+    width: 80%;
+    padding: 50px 0;
+    text-align: center;
+    background-color: lightblue;
+    margin-top: 20px;
+    display: "none";
+  }
+  /*  myFunction() {
+   
+    var x = document.getElementById("myDIV");
+    if ((x.style.display === "none")) {
+      x.style.display = "block";
+    } else {
+      x.style.display = "none";
+    }
+  } 
+  
+  toggleChecked() {
+    this.setState(prevState => ({ isChecked: !prevState.isChecked }));
+}
+  */
